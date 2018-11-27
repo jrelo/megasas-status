@@ -13,7 +13,7 @@ import inspect
 if sys.platform == 'win32':
     import ctypes
 
-def_megaclipath = "/usr/local/eig_zabbix/sbin/raidcheck/bin/MegaCli64"
+def_megaclipath = "/usr/local/zabbix/sbin/raidcheck/bin/MegaCli64"
 
 # Non-Nagios Mode defaults
 nagiosmode = False
