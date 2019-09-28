@@ -3,7 +3,7 @@
 #
 # Written by Adam Cecile <gandalf@NOSPAM.le-vert.net>
 # Modified by Vincent S. Cojot <vincent@NOSPAM.cojot.name>
-#
+# more info: https://serverfault.com/questions/381177/megacli-get-the-dev-sd-device-name-for-a-logical-drive
 
 import os
 import re
